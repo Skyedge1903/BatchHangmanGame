@@ -4,7 +4,7 @@ aller
 alors
 amener
 anorak
-apéritif
+apÃ©ritif
 appeler
 argent
 arriver
@@ -82,14 +82,14 @@ gouter
 grand
 habiter
 heure
-hôtel
+hÃ´tel
 huit
 ici
 janvier
 jardin
 jeudi
 jour
-journée
+journÃ©e
 juillet
 juin
 jusque
@@ -104,7 +104,7 @@ manteau
 mardi
 mars
 matin
-mélange
+mÃ©lange
 menu
 merci
 mercredi
@@ -113,7 +113,7 @@ milieu
 mois
 monnaie
 monsieur
-nationalité
+nationalitÃ©
 neuf
 noir
 nom
@@ -184,7 +184,7 @@ travail
 travers
 traverser
 trente
-très
+trÃ¨s
 trois
 trop
 vendredi
@@ -193,7 +193,7 @@ ville
 vingt
 violet
 voie
-voilà
+voilÃ 
 voiture
 voyage
 voyager
@@ -256,13 +256,13 @@ cabinet
 carreau
 chaise
 classe
-clé
+clÃ©
 coin
 couloir
 dossier
 eau
 escalier
-intérieur
+intÃ©rieur
 lavabo
 lecture
 marche
